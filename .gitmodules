@@ -1,15 +1,6 @@
-[submodule "src/powerline"]
-	   path = src/powerline
-	   url = git@github.com:Lokaltog/powerline.git
-[submodule "src/powerline-font"]
-	   path = src/powerline-font
-	   url = git@github.com:Lokaltog/powerline-fonts.git
+[submodule "src/bash-it"]
+	path = src/bash-it
+	url = https://github.com/Kuanlin/bash-it
 [submodule "src/oh-my-zsh"]
-	   path = src/oh-my-zsh
-	   url = git@github.com:kuanlin/oh-my-zsh.git
-[submodule "src/bashit"]
-	   path = src/bashit
-	   url = git@github.com:kuanlin/bashit.git
-[submodule "dotfiles"]
-	   path = src/dotfiles
-	   url = git@github.com:kuanlin/dotfiles.git
+	path = src/oh-my-zsh
+	url = https://github.com/Kuanlin/oh-my-zsh
