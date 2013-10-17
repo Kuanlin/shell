@@ -4,3 +4,10 @@
 [submodule "src/oh-my-zsh"]
 	path = src/oh-my-zsh
 	url = https://github.com/Kuanlin/oh-my-zsh
+[submodule "src/powerline"]
+	path = src/powerline
+	url = https://github.com/Lokaltog/powerline
+
+[submodule "src/powerline-fonts"]
+	path = src/powerline-fonts
+	url = https://github.com/Lokaltog/powerline-fonts
